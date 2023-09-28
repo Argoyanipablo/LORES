@@ -25,7 +25,7 @@ app = Client(
     in_memory=True,
     bot_token=BOT_TOKEN,
     api_id=6,
-    api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e",
+    api_hash="85b3f9a6f3d6bacbcb39f4b1a67979d7",
 )
 session = ClientSession()
 arq = ARQ(ARQ_API, ARQ_API_KEY, session)
